@@ -77,3 +77,29 @@ button {
 }
 
 /* Section 2 Styling*/
+
+.sec-2 { 
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightgray;
+}
+
+.img-seq {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img-seq img {
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}
+
+.sec-2 h3 {
+    margin: 0;
+    font-size: 25px;
+}
