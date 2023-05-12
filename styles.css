@@ -47,3 +47,31 @@ li {
     border-style: solid;
     padding: 10px;
 }
+
+/* Section 1 */
+
+.sec-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #1F2937;
+}
+
+.text-side {
+    color: white;
+    max-width: 500px;
+}
+
+.sec-1 img {
+    height: 200px;
+    width: 400px;
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
