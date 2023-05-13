@@ -46,6 +46,7 @@ li {
     color: white;
     border-style: solid;
     padding: 10px;
+    flex-shrink: 0;
 }
 
 /* Section 1 Styling*/
@@ -152,6 +153,9 @@ button {
 
 .alert button {
     margin-right: 100px;
+    flex-shrink: 0;
+    max-height: min-content;
+    align-self: center;
 }
 
 /* Footer Styling */
