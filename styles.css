@@ -121,3 +121,35 @@ button {
     font-weight: 650;
     text-align: end;
 }
+
+/* Section 4 Styling */
+
+.sec-4 {
+    padding: 100px 150px;
+    background-color: lightgray;
+}
+
+.alert {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 40px 0px;
+    color: white;
+    justify-content: space-between;
+}
+
+.container {
+    margin-left: 100px;
+}
+
+.container h4, .container p {
+    margin: 0;
+}
+
+.container h4 {
+    font-size: 120%;
+}
+
+.alert button {
+    margin-right: 100px;
+}
