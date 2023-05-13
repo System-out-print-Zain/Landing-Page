@@ -103,3 +103,20 @@ button {
     margin: 0;
     font-size: 25px;
 }
+
+/* Section 3 Styling */
+
+.sec-3 {
+    padding: 50px 200px;
+}
+
+.statement{
+    font-size: 25px;
+    font-style: italic;
+}
+
+.author {
+    font-size: 20px;
+    font-weight: 650;
+    text-align: end;
+}
